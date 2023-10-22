@@ -1,0 +1,4 @@
+baseURL = 'https://hydratedblog.org/'
+languageCode = 'en-us'
+title = 'Hydrated Blog'
+theme = 'terminal'
